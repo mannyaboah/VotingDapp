@@ -44,7 +44,7 @@ Using the Voting dapp:
     Only one account can vote at a time so after you vote, the vote button will disapper.
     Inorder to vote again, swich accounts in MetaMask, Multiple accounts can be imported
     from Ganache.
-    Note: MetaMask and chrome is glichy so refresh inbetween actions when page is loading ...
+    Note: MetaMask and chrome is glichy so refresh in between actions when page is loading ...
 
 ------------------------------------------------------------------------------------------------------------------
 

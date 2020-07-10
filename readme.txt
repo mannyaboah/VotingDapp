@@ -69,3 +69,8 @@ Project Structure:
 
 --test (Project tests for smart contracts)
 |______election.js
+
+
+References: 
+    Project was built following this tutorial:
+    https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial

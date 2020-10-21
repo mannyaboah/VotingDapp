@@ -1,6 +1,6 @@
 Project Summary: 
 
-An elections application for A select few of the candidates that were running in the democratic primaries
+An elections application for A select few of the candidates that were running in the 2020 democratic party primaries
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Technology Stack:
 - Mediator/ Glue between UI and EVM: Web3
 - Blockchain: Ethereum with Ethereum Virtual Machine
 - Compiler : truffle
-- Ethereum Blockchain manager/ networ : Ganache
+- Ethereum Blockchain manager/ network : Ganache
 
 -----------------------------------------------------------------------------------------------------------------
 
